@@ -1,4 +1,4 @@
-## My full name is Tran Hoang Duy. I am 2rd year student in UEH University
+## My full name is Tran Hoang Duy
 <div align="center">
   <a href="https://github.com/thduy2003/thduy2003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thduy2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
